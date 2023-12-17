@@ -20,5 +20,3 @@ Frontend-developer
 
 <a href="http://www.github.com/Garlend1"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Garlend1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Garlend1's GitHub stats" /></a>
 
-
-![image](https://www.codewars.com/users/Garlend1/badges/small)
