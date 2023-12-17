@@ -16,8 +16,6 @@ Frontend-developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Garlend1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garlend1&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <a href="http://www.github.com/Garlend1"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Garlend1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Garlend1's GitHub stats" /></a>
 
 
