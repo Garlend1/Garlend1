@@ -6,8 +6,8 @@ I'm a Junior Frontend Developer
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at:
-- [garlend123@gmail.com](mailto:garlend123@gmail.com)
-- Telegram: @garlend
+  +[garlend123@gmail.com](mailto:garlend123@gmail.com)
+  +Telegram: @garlend
 
 
 ### Skills
