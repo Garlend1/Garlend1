@@ -1,7 +1,7 @@
-Hi 👋 My name is Pavel
+Hi, my name is Pavel 👋
 ======================
 
-Frontend-developer
+I'm a Junior Frontend Developer
 ------------------
 
 * 🌍  I'm based in Saint-Petersburg
